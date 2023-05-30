@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: shareholders-cleaning
+Version: 0.0.1
+Summary: Shareholders_cleaning
+License: UNKNOWN
+Keywords: python,shareholders_cleaning
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+This package allows to clean history data on mapping between bank and backoffice data
+

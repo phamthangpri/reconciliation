@@ -1,0 +1,6 @@
+setup.py
+shareholders_cleaning.egg-info/PKG-INFO
+shareholders_cleaning.egg-info/SOURCES.txt
+shareholders_cleaning.egg-info/dependency_links.txt
+shareholders_cleaning.egg-info/requires.txt
+shareholders_cleaning.egg-info/top_level.txt

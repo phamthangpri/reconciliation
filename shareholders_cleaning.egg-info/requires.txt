@@ -1,0 +1,14 @@
+pip>=9
+setuptools>=26
+twine
+wheel
+numpy
+pandas
+re
+pyodbc
+sqlite3
+fuzzywuzzy
+datetime
+itertools
+io
+msoffcrypto

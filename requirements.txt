@@ -1,0 +1,24 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel
+itertools
+unidecode
+swifter
+office365
+bs4
+
+# data
+numpy
+pandas
+re
+pyodbc
+sqlite3
+fuzzywuzzy
+datetime
+
+
+#read excel with password
+io
+msoffcrypto
